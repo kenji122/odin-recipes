@@ -1,3 +1,19 @@
 h1 {
-    font-family:fantasy,sans-serif;
+    font-family:sans-serif, "Times New Roman";
+    color:rgb(207, 207, 74);
+}
+
+#coffejelly {
+    font-family:sans-serif, "Times New Roman";
+    color:#6f4e37;
+}
+
+.cookies.chocolate-chip{
+    font-family:sans-serif, "Times New Roman";
+    color:#9D7E67;
+}
+
+.sushi {
+    font-family:sans-serif, "Times New Roman";
+    color:#7c9f2f;
 }
